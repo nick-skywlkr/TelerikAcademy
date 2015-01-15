@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\03.VariableInHex\bin\Debug\03.VariableInHex.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\03.VariableInHex\obj\Debug\03.VariableInHex.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\03.VariableInHex\obj\Debug\03.VariableInHex.pdb

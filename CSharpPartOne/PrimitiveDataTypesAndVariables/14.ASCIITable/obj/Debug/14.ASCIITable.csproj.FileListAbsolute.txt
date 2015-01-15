@@ -1,0 +1,5 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCIITable\bin\Debug\14.ASCIITable.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCIITable\obj\Debug\14.ASCIITable.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\14.ASCIITable\obj\Debug\14.ASCIITable.pdb
